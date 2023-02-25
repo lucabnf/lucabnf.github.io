@@ -49,7 +49,7 @@
 <img class="profile-picture" src="myself.JPG">
 Hey, Luca here, a 24 years old from Bologna, Italy.
 
-Currently in Zurich as Visiting student for my Master's thesis at ETH, working on machine learning for hel
+Currently in Zurich as Visiting student for my Master's thesis at ETH, working on machine learning for seizure prediction for EEG data
 
 ## Formation
 - Master’s Thesis @ ETH Zurich (Nov 2022 - present)
