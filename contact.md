@@ -3,24 +3,24 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [luca.benfenati98@gmail.com](mailto:luca.benfenati98@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+41 77 278 12 57](tel:+41772781257)
 
----
+<!-- ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Via Parma 8, San Lazzaro Di Savena
 >
-> London
+> 
 >
-> United Kingdom
+>  -->
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/luca-benfenati/)
+2. [Twitter](https://twitter.com/lucabnf)
+3. [Github](https://github.com/lucabnf)
