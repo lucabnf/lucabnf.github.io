@@ -1,14 +1,18 @@
-title: Researcher
+title: Luca Benfenati 
 url: "https://lucabnf.github.io"
-baseurl: "/researcher"
-# remote_theme: ankitsultana/researcher@gem
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/lucabnf"
 
 sass:
