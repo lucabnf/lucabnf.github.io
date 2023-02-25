@@ -1,0 +1,24 @@
+title: Researcher
+url: "https://lucabnf.github.io"
+baseurl: "/researcher"
+remote_theme: ankitsultana/researcher@gem
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/lucabnf"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
