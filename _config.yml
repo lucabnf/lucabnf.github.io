@@ -1,7 +1,7 @@
 title: Researcher
 url: "https://lucabnf.github.io"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher@gem
+# remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
