@@ -57,10 +57,10 @@ Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Tu
 - BSc. Electronic Engineering @ University of Bologna (Sep 2017 - July 2020)
 
 ## Experience
-<p float="left">
-  <img src="/logo/eth.png" width="33" />
-  <img src="/logo/polito.png" width="33" /> 
-  <img src="/logo/kpmg.png" width="33" />
+<p align="center">
+  <img src="/logo/eth.png" width="15" />
+  <img src="/logo/polito.png" width="15" /> 
+  <img src="/logo/kpmg.png" width="15" />
 </p>
 
 
