@@ -47,9 +47,9 @@
 
 ## About me
 <img class="profile-picture" src="myself.JPG">
-Hey, Luca here, a 24 years old from Bologna, Italy.
+I am a MSc student at *Politecnico di Torino* in Data Science and Engineering. Currently, I am in Zurich as a visiting student for my Master's thesis at the Integrated Systems Laboratory of *ETH*, working on self-supervised machine learning techniques for seizure prediction on EEG data.
 
-Currently in Zurich as Visiting student for my Master's thesis at ETH, working on machine learning for seizure prediction for EEG data
+Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Turin, collaborating with a top-tier automative company on predictive maintenance and emerging issues forecasting. I have also been a Junior Teaching Assitant of the Data Management and Visualization course helf at Politecnico di Torino. 
 
 ## Formation
 - Master’s Thesis @ ETH Zurich (Nov 2022 - present)
@@ -57,16 +57,15 @@ Currently in Zurich as Visiting student for my Master's thesis at ETH, working o
 - BSc. Electronic Engineering @ University of Bologna (Sep 2017 - July 2020)
 
 ## Experience
-- Data Science Intern @ KPMG Lighthouse (May 2022 - Sep 2022)
-- Junior Teaching Assistant @ Politecnico di Torino (Sep 2021 - Mar 2022)
+<p float="left">
+  <img src="/logo/eth.png" width="100" />
+  <img src="/logo/polito.png" width="100" /> 
+  <img src="/logo/kpmg.png" width="100" />
+</p>
+
 
 ## Main Projects
 - [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/lucabnf/realtime-DA)
 - [Edge-Cloud Collaborative Inference for IoT](https://github.com/lucabnf/ml4iot)
 - [Drug abuse prediction](https://github.com/lucabnf/drug-consumption)
 - [Damage detection on vehicles](https://github.com/lucabnf/damage-detection)
-
-## Skills
-- Programming : Python (Advanced), C++ (Intermediate)
-- Platforms and Technologies : Pytorch, Tensorflow, Tableau, Git
-- Languages : English (fluently), Italian (native)
