@@ -69,7 +69,7 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 
 ## Projects
 | Project | Description |
-| --- | --- |
+| --------- | --------------------- |
 | ![](https://github.com/lucabnf/realtime-DA/blob/master/images/model-scheme.jpeg) | **This is a test of table** |
 
 
