@@ -55,21 +55,26 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 ---
 
 ## Experience
-<img src="logo/all_logos.png"/>
+![]("/logo/all_logos.png")
 
 ---
 
-## Formation
+<!-- ## Education
 - Master’s Thesis @ ETH Zurich (2022-present)
 - MSc. Data Science and Engineering @ Politecnico di Torino (2020-present)
 - BSc. Electronic Engineering @ University of Bologna (2017-2020)
 
----
+--- -->
 
 
-## Main Projects
-- [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/lucabnf/realtime-DA): 
+## Projects
+| Project | Description |
+| --- | --- |
+| ![](https://github.com/lucabnf/realtime-DA/blob/master/images/model-scheme.jpeg) | **This is a test of table** |
+
+
+<!-- - [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/lucabnf/realtime-DA): 
 - [Edge-Cloud Collaborative Inference for IoT](https://github.com/lucabnf/ml4iot)
 - [Drug abuse prediction](https://github.com/lucabnf/drug-consumption)
-- [Damage detection on vehicles](https://github.com/lucabnf/damage-detection)
+- [Damage detection on vehicles](https://github.com/lucabnf/damage-detection) -->
 
