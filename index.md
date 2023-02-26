@@ -58,9 +58,9 @@ Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Tu
 
 ## Experience
 <p align="center">
-  <img src="/logo/eth.png" width="15" />
-  <img src="/logo/polito.png" width="15" /> 
-  <img src="/logo/kpmg.png" width="15" />
+  <img src="/logo/eth.png" width="15%" />
+  <img src="/logo/polito.png" width="15%" /> 
+  <img src="/logo/kpmg.png" width="15%" />
 </p>
 
 
