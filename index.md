@@ -54,6 +54,11 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 
 ---
 
+## Experience
+<img src="logo/all_logos.png"/>
+
+---
+
 ## Formation
 - Master’s Thesis @ ETH Zurich (Nov 2022 - present)
 - MSc. Data Science and Engineering @ Politecnico di Torino (Sep 2020 - present)
@@ -61,10 +66,6 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 
 ---
 
-## Experience
-<img src="logo/eth.png" width="10px"/> <img src="logo/polito.png" width="10px"/> 
-
----
 
 ## Main Projects
 - [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/lucabnf/realtime-DA)
@@ -72,4 +73,3 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 - [Drug abuse prediction](https://github.com/lucabnf/drug-consumption)
 - [Damage detection on vehicles](https://github.com/lucabnf/damage-detection)
 
----
