@@ -50,7 +50,7 @@
 
 I am a MSc student at **Politecnico di Torino** in Data Science and Engineering. Currently, I am in Zurich as a visiting student for my Master's thesis at the Integrated Systems Laboratory of **ETH**, working on self-supervised machine learning techniques for seizure prediction on EEG data.
 
-Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Turin, collaborating with a top-tier automative company on predictive maintenance and emerging issues forecasting. I have also been a Junior Teaching Assitant of the Data Management and Visualization course helf at Politecnico di Torino.
+<!-- Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Turin, collaborating with a top-tier automative company on predictive maintenance and emerging issues forecasting. I have also been a Junior Teaching Assitant of the Data Management and Visualization course helf at Politecnico di Torino. -->
 
 ## Formation
 - Master’s Thesis @ ETH Zurich (Nov 2022 - present)
@@ -58,11 +58,7 @@ Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Tu
 - BSc. Electronic Engineering @ University of Bologna (Sep 2017 - July 2020)
 
 ## Experience
-<p float="center">
-  <img src="/logo/eth.png" width="10%" height="10%" />
-  <img src="/logo/polito.png" width="1" height="10%" /> 
-  <img src="/logo/kpmg.png" width="1" height="10%" />
-</p>
+<img src="/logo/eth.png" width="32%" /> <img src="/logo/polito.png" width="32%" /> <img src="/logo/kpmg.png" width="32%" />
 
 
 ## Main Projects
