@@ -58,9 +58,7 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 - BSc. Electronic Engineering @ University of Bologna (Sep 2017 - July 2020)
 
 ## Experience
-Test             |  Test | Test 
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://lucabnf.github.io/logo/eth.png)  |  ![](https://lucabnf.github.io/logo/polito.png) | ![](https://lucabnf.github.io/logo/kpmg.png")
+![alt-text-1](/logo/eth.png "ETH Zurich" =20%x) ![alt-text-2](/logo/polito.png "Politecnico di Torino" =20%x) ![alt-text-3](/logo/kpmg.png "KPMG Advisory" =20%x)
 
 
 
