@@ -12,7 +12,7 @@ plugins:
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://github.com/lucabnf"
 
 sass:
