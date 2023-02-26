@@ -58,11 +58,43 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 - BSc. Electronic Engineering @ University of Bologna (Sep 2017 - July 2020)
 
 ## Experience
-<p float="center">
-  <img src="./logo/eth.png" width="32%">
-  <img src="./logo/polito.png" width="32%">
-  <img src="./logo/kpmg.png" width="32%">
-</p>
+<table width="100%" align="center" border="0" cellspacing="20" cellpadding="30">
+    <tr>
+        <td width="20%" valign="center">
+        <center>
+            <a href="https://www.cmre.nato.int/" target="_blank">
+            <img height="100px" width="auto" src='logo/eth.png'>
+            </a>
+            <div style="border:0px solid;height:30px;line-height:30px;" text-align: center></div>
+            <p><font size=2 px color="#800000"> <a href="https://www.cmre.nato.int/" target="_blank">NATO's CMRE</a>  </font></p>
+            <p><font size=2 px color="#800000" > Research Intern</font></p>
+        </center>
+        </td>
+        <td width="20%" valign="center">
+        <center>
+            <a href="http://axti.radboudimaging.nl/index.php/Home" target="_blank">
+            <img height="100px" width="auto" src='logo/polito.jpeg'>
+            </a>
+            <div style="border:0px solid;height:30px;line-height:30px;" text-align: center></div>
+            <p><font size=2 px color="#800000"> <a href="http://axti.radboudimaging.nl/index.php/Home" target="_blank">Advanced X-Ray Tomographic Imaging lab</a>  </font></p>
+            <p><font size=2 px color="#800000"> Research Intern</font></p>
+        </center>
+
+        </td>
+        <td width="20%" valign="center">
+        <center>
+            <a href="https://www.aikospace.com/" target="_blank">
+            <img height="100px" width="auto" src='logo/kpmg.png'>
+            </a>
+            <div style="border:0px solid;height:30px;line-height:30px;" text-align: center></div>
+            <p><font size=2 px color="#800000"> <a href="https://www.aikospace.com/" target="_blank">AIKO - Infinite Ways to Autonomoy</a>  </font></p>
+            <p><font size=2 px color="#800000" > Deep Learning Engineer Intern</font></p>
+        </center>
+
+        </td>
+    </tr>
+
+</tbody></table>
 
 
 
