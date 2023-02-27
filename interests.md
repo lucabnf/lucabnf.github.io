@@ -13,17 +13,17 @@ Here's something more about what I like.
 - Questa è l'America, Francesco Costa
 - California, Francesco Costa 
 
--- 
+---
 
 ## Sport
 - coming soon
 
--- 
+---
 
 ## Gym
 ![It's bulking season...](/images/weight_development.png)
 
--- 
+---
 
 ## Personal finance
 - coming soon
