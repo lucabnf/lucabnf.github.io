@@ -1,9 +1,23 @@
 Here's something more about what I like. 
 
-## Books 
+## Books
+### 2023
+- The simple path to wealth, J. L. Collins
+- Designin Your Life, Bill Burnett and Dave Evan
+- So good they can't ignore you, Cal Newport
 
-## Motorsport
+### 2022 
+- How to build a car, Adrian Newey
+- Total Competition: Lessons in Strategy from Formula One, Ross Brawn
+- The Winning Formula, David Coulthard
+- Questa è l'America, Francesco Costa
+- California, Francesco Costa 
+
+## Sport
+- coming soon
 
 ## Gym
+![It's bulking season...](/images/weight_development.png)
 
 ## Personal finance
+- coming soon

@@ -55,7 +55,7 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 ---
 
 ## Experience
-![](/logo/all_logos.png)
+![](/images/all_logos.png)
 
 ---
 
