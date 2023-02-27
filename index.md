@@ -57,6 +57,7 @@ I am a MSc student at **Politecnico di Torino** in Data Science and Engineering.
 
 ---
 ## News
+
 Date | What now?
 -----|-------
 Nov '22 | Started as Master's thesis student at [ETH Zurich](https://ethz.ch)
