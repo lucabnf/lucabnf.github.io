@@ -44,9 +44,6 @@
 <!-- * Foo Bar: Head of Department, Placeholder Names, Lorem -->
 <!-- * John Doe: Associate Professor, Department of Computer Science, Ipsum -->
 <!--  -->
----
-layout: default 
----
 
 ## About me
 <img class="profile-picture" src="myself.JPG">
