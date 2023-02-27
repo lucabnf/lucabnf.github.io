@@ -61,7 +61,7 @@ Nov 22 | Started as Master's thesis student at [ETH Zurich](https://ethz.ch)
 May 22 | Started as Data Scientist intern at [KPMG Lighthouse](https://advisory.kpmg.us/services/lighthouse.html)
 Sep 21 | Started as a Junior Teaching Assitant at [Politecnico di Torino](https://www.polito.it/)
 Sep 20 | Started Master in Data Science and Engineering at [Politecnico di Torino](https://www.polito.it/)
-Jul 20 | Graduated with honours in Electronic and Telecommunications Engineering at [University of Bologna](https://www.unibo.it/)</font>
+Jul 20 | Graduated with honours in Electronic and Telecommunications Engineering at [University of Bologna](https://www.unibo.it/)
 
 ---
 
