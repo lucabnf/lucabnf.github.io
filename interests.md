@@ -15,13 +15,13 @@ Here's something more about what I like.
 
 ---
 
-## Sport
-- coming soon
+## Gym
+![It's bulking season...](/images/weight_development.png)
 
 ---
 
-## Gym
-![It's bulking season...](/images/weight_development.png)
+## Sport
+- coming soon
 
 ---
 
