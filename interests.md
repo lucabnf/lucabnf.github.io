@@ -16,7 +16,7 @@ Here's something more about what I like.
 ---
 
 ## Gym
-![It's bulking season...](/images/weight_development.png It's bulking season...)
+![It's bulking season...](/images/weight_development.png)
 
 ---
 
