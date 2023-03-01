@@ -70,12 +70,12 @@ Jul 20 | Graduated with honours in Electronic and Telecommunications Engineering
 
 ---
 
-<!-- ## Education
+## Education
 - Master’s Thesis @ ETH Zurich (2022-present)
 - MSc. Data Science and Engineering @ Politecnico di Torino (2020-present)
 - BSc. Electronic Engineering @ University of Bologna (2017-2020)
 
---- -->
+---
 
 
 ## Projects
