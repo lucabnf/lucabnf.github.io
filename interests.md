@@ -1,4 +1,4 @@
-Here's something more about what I like. 
+Some interests of mine...
 
 ## Books
 ### 2023
