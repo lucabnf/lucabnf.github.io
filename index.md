@@ -50,7 +50,7 @@
 
 I am a MSc student at **Politecnico di Torino** in Data Science and Engineering. Currently, I am in Zurich as a visiting student for my Master's thesis at the Integrated Systems Laboratory of **ETH**, working on self-supervised machine learning techniques for seizure prediction on EEG data.
 
-Resume, contacts and (some) of my interest at the top right.
+If you are interested in some of the past (public) projects, have a look at my [github](https://github.com/lucabnf) page.
 
 <!-- Previously, I conducted an Intersnhip as a Data Scientist at KPMG Advisory in Turin, collaborating with a top-tier automative company on predictive maintenance and emerging issues forecasting. I have also been a Junior Teaching Assitant of the Data Management and Visualization course helf at Politecnico di Torino. -->
 
@@ -82,7 +82,6 @@ Jul 20 | Graduated with honours in Electronic and Telecommunications Engineering
 
 ## Projects
 - [Real-time Domain Adaptation in Semantic Segmentation](https://github.com/lucabnf/realtime-DA): 
-    -  
 - [Edge-Cloud Collaborative Inference for IoT](https://github.com/lucabnf/ml4iot)
 - [Drug abuse prediction](https://github.com/lucabnf/drug-consumption)
 - [Damage detection on vehicles](https://github.com/lucabnf/damage-detection)
