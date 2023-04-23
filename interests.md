@@ -16,14 +16,11 @@ Some interests of mine...
 ---
 
 ## Gym
-![It's bulking season...](/images/weight_development.png)
 
 ---
 
 ## Sport
-- coming soon
 
 ---
 
 ## Personal finance
-- coming soon
