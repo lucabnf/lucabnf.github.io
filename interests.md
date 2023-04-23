@@ -3,7 +3,7 @@ Some interests of mine...
 ## Books
 ### 2023
 - The simple path to wealth, J. L. Collins
-- Designin Your Life, Bill Burnett and Dave Evan
+- Designing Your Life, Bill Burnett and Dave Evan
 - So good they can't ignore you, Cal Newport
 
 ### 2022 
