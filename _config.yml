@@ -20,11 +20,11 @@ sass:
     sass_dir: _sass
 
 nav:
-#  - name: "About"
-#    link: "/"
+ - name: "About"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
+ - name: "Contacts"
    link: "contact"
- - name: "Interests"
-   link: "interests"
+#  - name: "Interests"
+#    link: "interests"
