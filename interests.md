@@ -5,6 +5,9 @@ Some interests of mine...
 - The simple path to wealth, J. L. Collins
 - Designing Your Life, Bill Burnett and Dave Evan
 - So good they can't ignore you, Cal Newport
+- Deep Work, Cal Newport
+- Una storia americana, Francesco Costa
+- Il volto del male, Stefano Nazzi
 
 ### 2022 
 - How to build a car, Adrian Newey
@@ -15,11 +18,12 @@ Some interests of mine...
 
 ---
 
-## Gym
-
----
-
 ## Sport
+- Gym
+- Basketball
+- Biking
+- Climbing
+- Surfing
 
 ---
 

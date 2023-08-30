@@ -48,7 +48,7 @@
 ## About me
 <img class="profile-picture" src="myself.JPG">
 
-I am a MSc student at **Politecnico di Torino** in Data Science and Engineering. Currently, I am in Zurich as a visiting student for my Master's thesis at the Integrated Systems Laboratory of **ETH**, working on self-supervised machine learning techniques for seizure prediction on EEG data.
+I have recently graduated at in Data Science and Engineering **Politecnico di Torino**, after a 6-months stay in Zurich as a visiting student for my Master's thesis at the Integrated Systems Laboratory of **ETH**, working on self-supervised machine learning techniques for seizure prediction on EEG data.
 
 If you are interested in some of the past (public) projects, have a look at my [github](https://github.com/lucabnf) page.
 
@@ -59,6 +59,7 @@ If you are interested in some of the past (public) projects, have a look at my [
 
 Date | What now?
 ------|--------
+Jul 23 | Graduated in Data Science and Engineering at [Politecnico di Torino](https://www.polito.it/)
 Nov 22 | Started as Master's thesis student at [ETH Zurich](https://ethz.ch)
 May 22 | Started as Data Scientist intern at [KPMG Lighthouse](https://advisory.kpmg.us/services/lighthouse.html)
 Sep 21 | Started as a Junior Teaching Assitant at [Politecnico di Torino](https://www.polito.it/)
@@ -68,8 +69,8 @@ Jul 20 | Graduated with honours in Electronic and Telecommunications Engineering
 ---
 
 ## Education
-- Master’s Thesis @ ETH Zurich (2022-present)
-- MSc. Data Science and Engineering @ Politecnico di Torino (2020-present)
+- Master’s Thesis @ ETH Zurich (2022-2023)
+- MSc. Data Science and Engineering @ Politecnico di Torino (2020-2023)
 - BSc. Electronic Engineering @ University of Bologna (2017-2020)
 
 ---
