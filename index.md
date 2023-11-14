@@ -59,6 +59,7 @@ If you are interested in some of the past (public) projects, have a look at my [
 
 Date | What now?
 ------|--------
+Nov 23 | Started as PhD student in Computer and Control Engineering at [Politecnico di Torino](https://www.polito.it/)
 Jul 23 | Graduated in Data Science and Engineering at [Politecnico di Torino](https://www.polito.it/)
 Nov 22 | Started as Master's thesis student at [ETH Zurich](https://ethz.ch)
 May 22 | Started as Data Scientist intern at [KPMG Lighthouse](https://advisory.kpmg.us/services/lighthouse.html)
